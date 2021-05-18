@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Assessment\Tenth Project\bin\Debug\net5.0\Tenth Project.exe
+C:\Users\ADMIN\Desktop\Assessment\Tenth Project\bin\Debug\net5.0\Tenth Project.deps.json
+C:\Users\ADMIN\Desktop\Assessment\Tenth Project\bin\Debug\net5.0\Tenth Project.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Assessment\Tenth Project\bin\Debug\net5.0\Tenth Project.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Assessment\Tenth Project\bin\Debug\net5.0\Tenth Project.dll
+C:\Users\ADMIN\Desktop\Assessment\Tenth Project\bin\Debug\net5.0\ref\Tenth Project.dll
+C:\Users\ADMIN\Desktop\Assessment\Tenth Project\bin\Debug\net5.0\Tenth Project.pdb
+C:\Users\ADMIN\Desktop\Assessment\Tenth Project\obj\Debug\net5.0\Tenth Project.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Assessment\Tenth Project\obj\Debug\net5.0\Tenth Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Assessment\Tenth Project\obj\Debug\net5.0\Tenth Project.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Assessment\Tenth Project\obj\Debug\net5.0\Tenth Project.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Assessment\Tenth Project\obj\Debug\net5.0\Tenth Project.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Assessment\Tenth Project\obj\Debug\net5.0\Tenth Project.dll
+C:\Users\ADMIN\Desktop\Assessment\Tenth Project\obj\Debug\net5.0\ref\Tenth Project.dll
+C:\Users\ADMIN\Desktop\Assessment\Tenth Project\obj\Debug\net5.0\Tenth Project.pdb
+C:\Users\ADMIN\Desktop\Assessment\Tenth Project\obj\Debug\net5.0\Tenth Project.genruntimeconfig.cache

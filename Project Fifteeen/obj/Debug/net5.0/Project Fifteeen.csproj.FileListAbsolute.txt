@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Assessment\Project Fifteeen\bin\Debug\net5.0\Project Fifteeen.exe
+C:\Users\ADMIN\Desktop\Assessment\Project Fifteeen\bin\Debug\net5.0\Project Fifteeen.deps.json
+C:\Users\ADMIN\Desktop\Assessment\Project Fifteeen\bin\Debug\net5.0\Project Fifteeen.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Assessment\Project Fifteeen\bin\Debug\net5.0\Project Fifteeen.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Assessment\Project Fifteeen\bin\Debug\net5.0\Project Fifteeen.dll
+C:\Users\ADMIN\Desktop\Assessment\Project Fifteeen\bin\Debug\net5.0\ref\Project Fifteeen.dll
+C:\Users\ADMIN\Desktop\Assessment\Project Fifteeen\bin\Debug\net5.0\Project Fifteeen.pdb
+C:\Users\ADMIN\Desktop\Assessment\Project Fifteeen\obj\Debug\net5.0\Project Fifteeen.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Assessment\Project Fifteeen\obj\Debug\net5.0\Project Fifteeen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Assessment\Project Fifteeen\obj\Debug\net5.0\Project Fifteeen.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Assessment\Project Fifteeen\obj\Debug\net5.0\Project Fifteeen.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Assessment\Project Fifteeen\obj\Debug\net5.0\Project Fifteeen.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Assessment\Project Fifteeen\obj\Debug\net5.0\Project Fifteeen.dll
+C:\Users\ADMIN\Desktop\Assessment\Project Fifteeen\obj\Debug\net5.0\ref\Project Fifteeen.dll
+C:\Users\ADMIN\Desktop\Assessment\Project Fifteeen\obj\Debug\net5.0\Project Fifteeen.pdb
+C:\Users\ADMIN\Desktop\Assessment\Project Fifteeen\obj\Debug\net5.0\Project Fifteeen.genruntimeconfig.cache

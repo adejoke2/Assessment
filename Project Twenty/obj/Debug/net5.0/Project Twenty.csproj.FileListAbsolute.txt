@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Documents\Project Twenty\bin\Debug\net5.0\Project Twenty.exe
+C:\Users\ADMIN\Documents\Project Twenty\bin\Debug\net5.0\Project Twenty.deps.json
+C:\Users\ADMIN\Documents\Project Twenty\bin\Debug\net5.0\Project Twenty.runtimeconfig.json
+C:\Users\ADMIN\Documents\Project Twenty\bin\Debug\net5.0\Project Twenty.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\Project Twenty\bin\Debug\net5.0\Project Twenty.dll
+C:\Users\ADMIN\Documents\Project Twenty\bin\Debug\net5.0\ref\Project Twenty.dll
+C:\Users\ADMIN\Documents\Project Twenty\bin\Debug\net5.0\Project Twenty.pdb
+C:\Users\ADMIN\Documents\Project Twenty\obj\Debug\net5.0\Project Twenty.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\Project Twenty\obj\Debug\net5.0\Project Twenty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Project Twenty\obj\Debug\net5.0\Project Twenty.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Project Twenty\obj\Debug\net5.0\Project Twenty.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Project Twenty\obj\Debug\net5.0\Project Twenty.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Project Twenty\obj\Debug\net5.0\Project Twenty.dll
+C:\Users\ADMIN\Documents\Project Twenty\obj\Debug\net5.0\ref\Project Twenty.dll
+C:\Users\ADMIN\Documents\Project Twenty\obj\Debug\net5.0\Project Twenty.pdb
+C:\Users\ADMIN\Documents\Project Twenty\obj\Debug\net5.0\Project Twenty.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Documents\Project Eighteen\bin\Debug\net5.0\Project Eighteen.exe
+C:\Users\ADMIN\Documents\Project Eighteen\bin\Debug\net5.0\Project Eighteen.deps.json
+C:\Users\ADMIN\Documents\Project Eighteen\bin\Debug\net5.0\Project Eighteen.runtimeconfig.json
+C:\Users\ADMIN\Documents\Project Eighteen\bin\Debug\net5.0\Project Eighteen.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\Project Eighteen\bin\Debug\net5.0\Project Eighteen.dll
+C:\Users\ADMIN\Documents\Project Eighteen\bin\Debug\net5.0\ref\Project Eighteen.dll
+C:\Users\ADMIN\Documents\Project Eighteen\bin\Debug\net5.0\Project Eighteen.pdb
+C:\Users\ADMIN\Documents\Project Eighteen\obj\Debug\net5.0\Project Eighteen.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\Project Eighteen\obj\Debug\net5.0\Project Eighteen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Project Eighteen\obj\Debug\net5.0\Project Eighteen.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Project Eighteen\obj\Debug\net5.0\Project Eighteen.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Project Eighteen\obj\Debug\net5.0\Project Eighteen.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Project Eighteen\obj\Debug\net5.0\Project Eighteen.dll
+C:\Users\ADMIN\Documents\Project Eighteen\obj\Debug\net5.0\ref\Project Eighteen.dll
+C:\Users\ADMIN\Documents\Project Eighteen\obj\Debug\net5.0\Project Eighteen.pdb
+C:\Users\ADMIN\Documents\Project Eighteen\obj\Debug\net5.0\Project Eighteen.genruntimeconfig.cache

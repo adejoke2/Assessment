@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Documents\Sixth Project\bin\Debug\net5.0\Sixth Project.exe
+C:\Users\ADMIN\Documents\Sixth Project\bin\Debug\net5.0\Sixth Project.deps.json
+C:\Users\ADMIN\Documents\Sixth Project\bin\Debug\net5.0\Sixth Project.runtimeconfig.json
+C:\Users\ADMIN\Documents\Sixth Project\bin\Debug\net5.0\Sixth Project.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\Sixth Project\bin\Debug\net5.0\Sixth Project.dll
+C:\Users\ADMIN\Documents\Sixth Project\bin\Debug\net5.0\ref\Sixth Project.dll
+C:\Users\ADMIN\Documents\Sixth Project\bin\Debug\net5.0\Sixth Project.pdb
+C:\Users\ADMIN\Documents\Sixth Project\obj\Debug\net5.0\Sixth Project.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\Sixth Project\obj\Debug\net5.0\Sixth Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Sixth Project\obj\Debug\net5.0\Sixth Project.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Sixth Project\obj\Debug\net5.0\Sixth Project.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Sixth Project\obj\Debug\net5.0\Sixth Project.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Sixth Project\obj\Debug\net5.0\Sixth Project.dll
+C:\Users\ADMIN\Documents\Sixth Project\obj\Debug\net5.0\ref\Sixth Project.dll
+C:\Users\ADMIN\Documents\Sixth Project\obj\Debug\net5.0\Sixth Project.pdb
+C:\Users\ADMIN\Documents\Sixth Project\obj\Debug\net5.0\Sixth Project.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\ADMIN\Desktop\Assessment\Project Twelve\obj\Debug\net5.0\Project Twelve.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Assessment\Project Twelve\obj\Debug\net5.0\Project Twelve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Assessment\Project Twelve\obj\Debug\net5.0\Project Twelve.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Assessment\Project Twelve\obj\Debug\net5.0\Project Twelve.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Assessment\Project Twelve\obj\Debug\net5.0\Project Twelve.csproj.CoreCompileInputs.cache

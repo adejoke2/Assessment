@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Documents\Project Nineteen\bin\Debug\net5.0\Project Nineteen.exe
+C:\Users\ADMIN\Documents\Project Nineteen\bin\Debug\net5.0\Project Nineteen.deps.json
+C:\Users\ADMIN\Documents\Project Nineteen\bin\Debug\net5.0\Project Nineteen.runtimeconfig.json
+C:\Users\ADMIN\Documents\Project Nineteen\bin\Debug\net5.0\Project Nineteen.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\Project Nineteen\bin\Debug\net5.0\Project Nineteen.dll
+C:\Users\ADMIN\Documents\Project Nineteen\bin\Debug\net5.0\ref\Project Nineteen.dll
+C:\Users\ADMIN\Documents\Project Nineteen\bin\Debug\net5.0\Project Nineteen.pdb
+C:\Users\ADMIN\Documents\Project Nineteen\obj\Debug\net5.0\Project Nineteen.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\Project Nineteen\obj\Debug\net5.0\Project Nineteen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Project Nineteen\obj\Debug\net5.0\Project Nineteen.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Project Nineteen\obj\Debug\net5.0\Project Nineteen.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Project Nineteen\obj\Debug\net5.0\Project Nineteen.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Project Nineteen\obj\Debug\net5.0\Project Nineteen.dll
+C:\Users\ADMIN\Documents\Project Nineteen\obj\Debug\net5.0\ref\Project Nineteen.dll
+C:\Users\ADMIN\Documents\Project Nineteen\obj\Debug\net5.0\Project Nineteen.pdb
+C:\Users\ADMIN\Documents\Project Nineteen\obj\Debug\net5.0\Project Nineteen.genruntimeconfig.cache
